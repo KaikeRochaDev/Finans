@@ -1,0 +1,8 @@
+body, html {
+    font-family: 'Golos Text', sans-serif;
+}
+
+#home{
+    background-color: #ffc107;
+    color: white;
+}
